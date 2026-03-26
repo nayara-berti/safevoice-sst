@@ -66,8 +66,8 @@ O **SafeVoice SST** possui caráter **preliminar e orientativo**, não substitui
 ### ▶️ Acessar o Notebook 
 
 - [Ver no GitHub](./notebooks/safevoice_sst_colab.ipynb)
-- [Abrir no Google Colab](https://colab.research.google.com/github/nayara-berti/safevoice-sst/blob/main/notebooks/safevoice_sst_colab.ipynb)
 
+  
 ---
 
 ## 🇺🇸 English
@@ -126,7 +126,7 @@ The next evolution of the project includes:
 ### ▶️ Open the Notebook
 
 - [View on GitHub](./notebooks/safevoice_sst_colab.ipynb)
-- [Open in Google Colab](https://colab.research.google.com/github/nayara-berti/safevoice-sst/blob/main/notebooks/safevoice_sst_colab.ipynb)
+ 
 ---
 
 Developed with 💙 by **Nayara Berti**
