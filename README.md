@@ -63,6 +63,11 @@ A próxima evolução do projeto contempla:
 ### ⚠️ Observação Importante
 O **SafeVoice SST** possui caráter **preliminar e orientativo**, não substituindo análise técnica em campo, interpretação formal da legislação ou validação por profissional habilitado.
 
+### ▶️ Acessar o Notebook 
+
+- [Ver no GitHub](./notebooks/safevoice_sst_colab.ipynb)
+- [Abrir no Google Colab](https://colab.research.google.com/github/nayara-berti/safevoice-sst/blob/main/notebooks/safevoice_sst_colab.ipynb)
+
 ---
 
 ## 🇺🇸 English
@@ -118,6 +123,10 @@ The next evolution of the project includes:
 ### ⚠️ Important Note
 **SafeVoice SST** has a **preliminary and guidance-oriented** purpose and does not replace on-site technical analysis, formal legal interpretation, or validation by a qualified professional.
 
+### ▶️ Open the Notebook
+
+- [View on GitHub](./notebooks/safevoice_sst_colab.ipynb)
+- [Open in Google Colab](https://colab.research.google.com/github/nayara-berti/safevoice-sst/blob/main/notebooks/safevoice_sst_colab.ipynb)
 ---
 
 Developed with 💙 by **Nayara Berti**
